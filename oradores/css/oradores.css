@@ -1,0 +1,16 @@
+.card {
+    width: 20rem;
+    
+}
+
+.card a {
+    padding: .1rem, .2rem .1rem .2rem;
+    font-size: .8rem;
+    font-weight:  bold;
+    border: 0rem;
+    border-radius: 5px;
+}
+
+.navbar {
+    padding: .4rem;
+}
